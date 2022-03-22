@@ -864,3 +864,16 @@ a {
 	transition:  all .2s ease-in-out;
 }
 
+@media only screen and (max-width: 450px) {
+	.two-up{
+		display: flex;
+		flex-direction: column;
+		box-align: center;
+		margin-bottom: 64px
+	}
+
+	.four-up{
+		display: flex;
+		flex-direction: column;
+		gap: 64px;
+	}
