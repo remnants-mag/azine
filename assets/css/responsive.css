@@ -100,7 +100,6 @@ Table of Contents
 
 	.featured-works a:nth-of-type(2) .item,
 	.featured-works a:nth-of-type(4) .item {
-		float: right;
 		margin-right: 100px;
 	}
 
