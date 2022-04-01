@@ -588,10 +588,12 @@ a {
 /* =============== # Footer =============== */
 
 footer {
-    margin: auto;
-    max-width: 960px;
-    display: flex;
-    flex-direction: row;
+   	margin: auto;
+    	max-width: 960px;
+ 	display: flex;
+   	flex-direction: row;
+	position: bottom;
+	bottom: 0;
 }
 
 /* =============== # Hero =============== */
