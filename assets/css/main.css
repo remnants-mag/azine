@@ -590,6 +590,8 @@ a {
 .footer-default {
 	height: 100px;
 	line-height: 100px;
+	position: absolute;
+	bottom: 0;
 }
 
 .footer-default-border {
